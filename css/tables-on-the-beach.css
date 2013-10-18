@@ -1,0 +1,39 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+    color: #222222;
+    font-family: 'Open Sans';
+}
+
+.full {
+  background: url("../media/bg1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar {
+    font-family: Belleza;
+}
+
+.shrunk-logo-text {
+    display: inline;
+    font-size: 10px;
+}
+
+.main-text {
+    bottom: 7%;
+    position: fixed;
+    color: #f5f5f5;
+    margin-left: 4%;
+    background-color: rgba(32, 32, 32, .55);
+}
+
+footer {
+    background-color: #222222;
+    color: #333333;
+    display: none;
+}
+
