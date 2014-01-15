@@ -3,7 +3,7 @@ body {
 	margin-bottom: 50px;
 	background: none;
 	color: #222222;
-	font-family: 'Open Sans';
+	font-family: 'Open Sans' sans-serif;
 }
 
 .full {
@@ -15,12 +15,16 @@ body {
 }
 
 .navbar {
-	font-family: Belleza;
-	font-size: 24px;
+	font-family: Belleza serif;
+	font-size: 22px;
 }
 
 .navbar-brand {
 	font-size: inherit;
+}
+
+.navbar-fixed-top {
+    height: 22px;
 }
 
 .shrunk-logo-text {
